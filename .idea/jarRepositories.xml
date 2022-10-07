@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="delta" />
+      <option name="name" value="delta" />
+      <option name="url" value="https://sbtnexus.delta.sbrf.ru/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="foss-repository" />
+      <option name="name" value="foss-repository" />
+      <option name="url" value="https://sberosc.sigma.sbrf.ru/repo/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="delta_PPRBPRCR_group" />
+      <option name="name" value="delta_PPRBPRCR_group" />
+      <option name="url" value="https://sbtnexus.delta.sbrf.ru/nexus/content/repositories/PPRBPRCR_group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="EPSDEV_thirdparty" />
+      <option name="name" value="EPSDEV_thirdparty" />
+      <option name="url" value="http://sbtnexus.delta.sbrf.ru:8081/nexus/service/local/repositories/EPSDEV_thirdparty/content/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://nexus.sigma.sbrf.ru:8099/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="GWEC_RELEASES" />
+      <option name="name" value="GWEC_RELEASES" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/repositories/corp-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="GWEC_SNAPSHOTS" />
+      <option name="name" value="GWEC_SNAPSHOTS" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/repositories/corp-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="corp-snapshots" />
+      <option name="name" value="corp-snapshots" />
+      <option name="url" value="http://sbtnexus.delta.sbrf.ru:8081/nexus/service/local/repositories/corp-snapshots/content" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mavenCentral" />
+      <option name="name" value="mavenCentral" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="delta_PPRBPRCR_snapshot" />
+      <option name="name" value="delta_PPRBPRCR_snapshot" />
+      <option name="url" value="https://sbtnexus.delta.sbrf.ru/nexus/content/repositories/PPRBPRCR_snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="delta_PPRBPRCR_release" />
+      <option name="name" value="delta_PPRBPRCR_release" />
+      <option name="url" value="https://sbtnexus.delta.sbrf.ru/nexus/content/repositories/PPRBPRCR_release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Jcenter" />
+      <option name="name" value="Jcenter" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/repositories/jcenter" />
+    </remote-repository>
+  </component>
+</project>
