@@ -7,7 +7,7 @@ fun main() {
         list.add(i)
     }
 
-    println(binarySearch(list, 33))
+    println(binarySearch(list, 38))
 }
 
 fun binarySearch(list: List<Int>, item: Int): Int? {
@@ -15,7 +15,7 @@ fun binarySearch(list: List<Int>, item: Int): Int? {
     var high = list.size
     var j = 1
 
-    if (item !in 1..1000) {
+    if (item !in 1..100) {
         return null
     }
 
