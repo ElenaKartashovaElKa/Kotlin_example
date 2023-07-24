@@ -7,6 +7,7 @@ package extensionFunctions
 
 fun main() {
     println(28.simpleNumber())
+    println("Pianomania".lastChar())
 }
 
 fun Int.simpleNumber(): Boolean {
@@ -16,3 +17,4 @@ fun Int.simpleNumber(): Boolean {
     }
     return true
 }
+fun String.lastChar(): Char = get(length-1)

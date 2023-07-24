@@ -2,6 +2,11 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="delta" />
       <option name="name" value="delta" />
       <option name="url" value="https://sbtnexus.delta.sbrf.ru/nexus/content/groups/public/" />
@@ -30,6 +35,11 @@
       <option name="id" value="EPSDEV_thirdparty" />
       <option name="name" value="EPSDEV_thirdparty" />
       <option name="url" value="http://sbtnexus.delta.sbrf.ru:8081/nexus/service/local/repositories/EPSDEV_thirdparty/content/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />

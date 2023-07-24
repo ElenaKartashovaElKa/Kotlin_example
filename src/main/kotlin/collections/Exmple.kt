@@ -1,0 +1,5 @@
+package collections
+
+fun getChar(){
+
+}
